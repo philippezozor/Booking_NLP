@@ -15,4 +15,4 @@ Dans le dossier Work
   6) Le consumer, script appliquant le modele entrainé sur des reviews collectées à la volée. Les predictions sont stockées dans MondoDB : Booking.Reviews
 (fichier Polarity _prediction _Streaming)
   7) Un jupiter permettant de se connecter a MongoDB pour collecter et travailler les données precedement stockées ( Mongo_exploration)
-  8) On retrouve egalement les pipeline et Modèle sauvegardé dans Spark
+  8) On retrouve egalement les pipeline et Modèle sauvegardé dans Spark.
