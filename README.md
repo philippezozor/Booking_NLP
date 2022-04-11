@@ -2,6 +2,8 @@
 Projet architecture distribuée_ NLP sur des reviews d'hotel Booking
 
 
+Les données exploitées, contiennent plus de 515K reviews d'hotel et proviennent de kaggle : https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
+
 Ce git contient les codes qui nous ont permis de realiser le Projet d'analyse de sentiments en streaming sur des reviews d'hotel issues du site Booking.com
 On y trouve dans l ordre d'utilisation : 
   1) La presentation du projet
